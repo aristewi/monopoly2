@@ -2,6 +2,7 @@ package edu.ncsu.monopoly;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 
 public class GameMaster {
@@ -173,7 +174,7 @@ public class GameMaster {
 		return players.indexOf(player);
 	}
 
-    public ArrayList getSellerList() {
+    public List getSellerList() {
         ArrayList sellers = new ArrayList();
         for (Iterator iter = players.iterator(); iter.hasNext();) {
             Player player = (Player) iter.next();

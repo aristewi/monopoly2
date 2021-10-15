@@ -21,7 +21,7 @@ public class BuyHouseDialog extends JDialog {
 	private Player player;
 
 <span class="nc" id="L23">	public BuyHouseDialog(Player player) {</span>
-<span class="nc" id="L24">		this.player = player;</span>
+<span class="nc" id="L24">		this.setPlayer(player);</span>
 <span class="nc" id="L25">		Container c = this.getContentPane();</span>
 <span class="nc" id="L26">		c.setLayout(new GridLayout(3, 2));</span>
 <span class="nc" id="L27">		c.add(new JLabel(&quot;Select monopoly&quot;));</span>
@@ -45,7 +45,7 @@ public class BuyHouseDialog extends JDialog {
 	}
 
 	private JComboBox buildMonopolyComboBox() {
-<span class="nc" id="L48">		cboMonopoly = new JComboBox(player.getMonopolies());</span>
+<span class="nc" id="L48">		cboMonopoly = new JComboBox(getPlayer().getMonopolies());</span>
 <span class="nc" id="L49">		return cboMonopoly;</span>
 	}
 	
@@ -76,8 +76,16 @@ public class BuyHouseDialog extends JDialog {
 	private void okClicked() {
 <span class="nc" id="L77">		String monopoly = (String)cboMonopoly.getSelectedItem();</span>
 <span class="nc" id="L78">		int number = cboNumber.getSelectedIndex() + 1;</span>
-<span class="nc" id="L79">		player.purchaseHouse(monopoly, number);</span>
+<span class="nc" id="L79">		getPlayer().purchaseHouse(monopoly, number);</span>
 <span class="nc" id="L80">		this.dispose();</span>
 <span class="nc" id="L81">	}</span>
+
+	private Player getPlayer() {
+<span class="nc" id="L84">		return player;</span>
+	}
+
+	private void setPlayer(Player player) {
+<span class="nc" id="L88">		this.player = player;</span>
+<span class="nc" id="L89">	}</span>
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

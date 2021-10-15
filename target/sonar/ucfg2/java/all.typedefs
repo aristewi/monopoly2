@@ -1457,7 +1457,7 @@ getMoney()$edu.ncsu.monopoly.Player#getMoney()I^
 purchase()$edu.ncsu.monopoly.Player#purchase()Vh
 %setPosition(Ledu/ncsu/monopoly/Cell;)?edu.ncsu.monopoly.Player#setPosition(Ledu/ncsu/monopoly/Cell;)Vs
 "toString(Ledu/ncsu/monopoly/Cell;)Medu.ncsu.monopoly.Player#toString(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;Y
-getProperty(I)Gedu.ncsu.monopoly.Player#getProperty(I)Ledu/ncsu/monopoly/PropertyCell;Ù
+getProperty(I)Gedu.ncsu.monopoly.Player#getProperty(I)Ledu/ncsu/monopoly/PropertyCell;Ô
 edu.ncsu.monopoly.GameMasterjava.lang.Object>
 utilRollDice(),edu.ncsu.monopoly.GameMaster#utilRollDice()V8
 updateGUI())edu.ncsu.monopoly.GameMaster#updateGUI()V:
@@ -1484,8 +1484,8 @@ instance()Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster
 getGameBoard()Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/BoardGame;F
 setUtilDiceRoll(I)0edu.ncsu.monopoly.GameMaster#setUtilDiceRoll(I)Vp
 'movePlayer(Ledu/ncsu/monopoly/Player;I)Eedu.ncsu.monopoly.GameMaster#movePlayer(Ledu/ncsu/monopoly/Player;I)VZ
-btnPurchasePropertyClicked():edu.ncsu.monopoly.GameMaster#btnPurchasePropertyClicked()VT
-getSellerList()Aedu.ncsu.monopoly.GameMaster#getSellerList()Ljava/util/ArrayList;P
+btnPurchasePropertyClicked():edu.ncsu.monopoly.GameMaster#btnPurchasePropertyClicked()VO
+getSellerList()<edu.ncsu.monopoly.GameMaster#getSellerList()Ljava/util/List;P
 getCurrentPlayerIndex()5edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()Iv
 *getPlayerIndex(Ledu/ncsu/monopoly/Player;)Hedu.ncsu.monopoly.GameMaster#getPlayerIndex(Ledu/ncsu/monopoly/Player;)IJ
 getNumberOfPlayers()2edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()Iz
@@ -2764,12 +2764,14 @@ $edu.ncsu.monopoly.gui.GUITradeDialogedu.ncsu.monopoly.TradeDialogjavax.swin
 getTradeDeal()Pedu.ncsu.monopoly.gui.GUITradeDialog#getTradeDeal()Ledu/ncsu/monopoly/TradeDeal;Œ
 1updatePropertiesCombo(Ledu/ncsu/monopoly/Player;)Wedu.ncsu.monopoly.gui.GUITradeDialog#updatePropertiesCombo(Ledu/ncsu/monopoly/Player;)VP
 buildSellersCombo()9edu.ncsu.monopoly.gui.GUITradeDialog#buildSellersCombo()VZ
-<init>(Ljava/awt/Frame;)>edu.ncsu.monopoly.gui.GUITradeDialog#<init>(Ljava/awt/Frame;)V×
-$edu.ncsu.monopoly.gui.BuyHouseDialogjavax.swing.JDialogn
+<init>(Ljava/awt/Frame;)>edu.ncsu.monopoly.gui.GUITradeDialog#<init>(Ljava/awt/Frame;)V¨
+$edu.ncsu.monopoly.gui.BuyHouseDialogjavax.swing.JDialogY
+getPlayer()Jedu.ncsu.monopoly.gui.BuyHouseDialog#getPlayer()Ledu/ncsu/monopoly/Player;n
 buildMonopolyComboBox()Sedu.ncsu.monopoly.gui.BuyHouseDialog#buildMonopolyComboBox()Ljavax/swing/JComboBox;j
 buildNumberComboBox()Qedu.ncsu.monopoly.gui.BuyHouseDialog#buildNumberComboBox()Ljavax/swing/JComboBox;@
 okClicked()1edu.ncsu.monopoly.gui.BuyHouseDialog#okClicked()V\
-buildOKButton()Iedu.ncsu.monopoly.gui.BuyHouseDialog#buildOKButton()Ljavax/swing/JButton;d
+buildOKButton()Iedu.ncsu.monopoly.gui.BuyHouseDialog#buildOKButton()Ljavax/swing/JButton;t
+%setPlayer(Ledu/ncsu/monopoly/Player;)Kedu.ncsu.monopoly.gui.BuyHouseDialog#setPlayer(Ledu/ncsu/monopoly/Player;)Vd
 buildCancelButton()Medu.ncsu.monopoly.gui.BuyHouseDialog#buildCancelButton()Ljavax/swing/JButton;H
 cancelClicked()5edu.ncsu.monopoly.gui.BuyHouseDialog#cancelClicked()Vn
 "<init>(Ledu/ncsu/monopoly/Player;)Hedu.ncsu.monopoly.gui.BuyHouseDialog#<init>(Ledu/ncsu/monopoly/Player;)V³

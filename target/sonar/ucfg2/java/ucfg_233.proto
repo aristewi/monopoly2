@@ -1,111 +1,116 @@
 
 Iedu.ncsu.monopoly.GameMaster#btnDrawCardClicked()Ledu/ncsu/monopoly/Card;x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java$ $(""4*ç
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java% %(""4*é
 2x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java, ,(œ™
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java- -(œ™
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java, ,(!!
-%8edu.ncsu.monopoly.BoardGame"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/BoardGame;* 
-edu.ncsu.monopoly.GameMaster2getGameBoard()˜•
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java- -(!!
+%9edu.ncsu.monopoly.BoardGame"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/BoardGame;* 
+edu.ncsu.monopoly.GameMaster2getGameBoard()™–
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java, ,(2
-%9edu.ncsu.monopoly.Card"Dedu.ncsu.monopoly.BoardGame#drawChanceCard()Ledu/ncsu/monopoly/Card;*#
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java- -(2
+%10edu.ncsu.monopoly.Card"Dedu.ncsu.monopoly.BoardGame#drawChanceCard()Ledu/ncsu/monopoly/Card;*#
 !
-%8edu.ncsu.monopoly.BoardGame2drawChanceCard()Ã
-À
+%9edu.ncsu.monopoly.BoardGame2drawChanceCard()Ä
+Á
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java, ,(2
-cardedu.ncsu.monopoly.Card"__id*
-
-%9edu.ncsu.monopoly.Cardâß
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java- -(2
+cardedu.ncsu.monopoly.Card"__id*
+
+%10edu.ncsu.monopoly.Cardâß
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java- -(
-%10void"%edu.ncsu.monopoly.Card#applyAction()V* 
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java. .(
+%11void"%edu.ncsu.monopoly.Card#applyAction()V* 
 
 cardedu.ncsu.monopoly.Card2applyAction()*
 1*Þ
 3x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )(œ™
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java* *(œ™
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )(!!
-%5edu.ncsu.monopoly.BoardGame"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/BoardGame;* 
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java* *(!!
+%6edu.ncsu.monopoly.BoardGame"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/BoardGame;* 
 edu.ncsu.monopoly.GameMaster2getGameBoard()
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )(.
-%6edu.ncsu.monopoly.Card"@edu.ncsu.monopoly.BoardGame#drawCCCard()Ledu/ncsu/monopoly/Card;*#
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java* *(.
+%7edu.ncsu.monopoly.Card"@edu.ncsu.monopoly.BoardGame#drawCCCard()Ledu/ncsu/monopoly/Card;*#
 !
-%5edu.ncsu.monopoly.BoardGame2drawCCCard()Ã
+%6edu.ncsu.monopoly.BoardGame2drawCCCard()Ã
 À
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )(.
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java* *(.
 cardedu.ncsu.monopoly.Card"__id*
 
-%6edu.ncsu.monopoly.CardáÞ
+%7edu.ncsu.monopoly.CardáÞ
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java* *(
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java+ +(
 
-%7void"%edu.ncsu.monopoly.Card#applyAction()V* 
+%8void"%edu.ncsu.monopoly.Card#applyAction()V* 
 
 cardedu.ncsu.monopoly.Card2applyAction()*
-1*î
+1*‡
 4x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java% %(Ó
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java& &(Ó
 Ð
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java% %(#
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java& &(#
 %0edu.ncsu.monopoly.MonopolyGUI"__id*)*'
 edu.ncsu.monopoly.GameMaster"
 gui…‚
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java% %(%
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java& &(%
 
 %1void"4edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V*%
 #
 %0edu.ncsu.monopoly.MonopolyGUI*
 ""2setDrawCardEnabled(Z)ž›
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java&" &(4
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java'" '(4
 %2edu.ncsu.monopoly.Player"Iedu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;* 
 edu.ncsu.monopoly.GameMaster2getCurrentPlayer()Œ‰
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java&" &(B
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java'" '(B
 %3edu.ncsu.monopoly.Cell">edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;* 
 
 %2edu.ncsu.monopoly.Player2getPosition()Ç
 Ä
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java& &(C"
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java' '(C"
 celledu.ncsu.monopoly.CardCell"__id*
 
 %3edu.ncsu.monopoly.Cell«
 ¨
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java' '(
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java( ((
 cardedu.ncsu.monopoly.Card"__id*
 ""àÝ
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java( ((	
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )(	
 %4int"%edu.ncsu.monopoly.CardCell#getType()I*$
 "
-celledu.ncsu.monopoly.CardCell2	getType()*
+celledu.ncsu.monopoly.CardCell2	getType()–
+“
+x
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java) )()	
+%5int"__id*
+""*
 2
 3*û
 1x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java/ /(Ô
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java0 0(Ô
 Ñ
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java/ /($
-%11edu.ncsu.monopoly.MonopolyGUI"__id*)*'
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java0 0($
+%12edu.ncsu.monopoly.MonopolyGUI"__id*)*'
 edu.ncsu.monopoly.GameMaster"
 gui…‚
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java/ /(#
-%12void"3edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V*&
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java0 0(#
+%13void"3edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V*&
 $
-%11edu.ncsu.monopoly.MonopolyGUI*
+%12edu.ncsu.monopoly.MonopolyGUI*
 ""2setEndTurnEnabled(Z)"œ
 x
-n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java0 0( 
+n/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/GameMaster.java1 1( 
 
 cardedu.ncsu.monopoly.CardB 
 edu.ncsu.monopoly.GameMaster

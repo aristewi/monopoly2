@@ -1,22 +1,16 @@
 
-\edu.ncsu.monopoly.gui.GoCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;…
-{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/GoCellInfoFormatter.java	 	("1*ä
-1…
-{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/GoCellInfoFormatter.java
- 
-(±
-®
-…
-{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/GoCellInfoFormatter.java
- 
-(
-%0java.lang.String"__id*
-"""¢
-…
-{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/GoCellInfoFormatter.java
- 
-(
-
-%0java.lang.String:
-celledu.ncsu.monopoly.CellB-+
-)edu.ncsu.monopoly.gui.GoCellInfoFormatter
+Jedu.ncsu.monopoly.gui.BuyHouseDialog#getPlayer()Ledu/ncsu/monopoly/Player;€
+v/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/BuyHouseDialog.javaS S("1*“
+1€
+v/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/BuyHouseDialog.javaT	 T(â
+ß
+€
+v/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/BuyHouseDialog.javaT	 T(
+%0edu.ncsu.monopoly.Player"__id*4*2&
+$edu.ncsu.monopoly.gui.BuyHouseDialog"
+player"¥
+€
+v/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/BuyHouseDialog.javaT T( 
+
+%0edu.ncsu.monopoly.PlayerB(&
+$edu.ncsu.monopoly.gui.BuyHouseDialog

@@ -21,7 +21,7 @@ public class BuyHouseDialog extends JDialog {
 	private Player player;
 
 	public BuyHouseDialog(Player player) {
-		this.player = player;
+		this.setPlayer(player);
 		Container c = this.getContentPane();
 		c.setLayout(new GridLayout(3, 2));
 		c.add(new JLabel("Select monopoly"));
@@ -45,7 +45,7 @@ public class BuyHouseDialog extends JDialog {
 	}
 
 	private JComboBox buildMonopolyComboBox() {
-		cboMonopoly = new JComboBox(player.getMonopolies());
+		cboMonopoly = new JComboBox(getPlayer().getMonopolies());
 		return cboMonopoly;
 	}
 	
@@ -76,7 +76,15 @@ public class BuyHouseDialog extends JDialog {
 	private void okClicked() {
 		String monopoly = (String)cboMonopoly.getSelectedItem();
 		int number = cboNumber.getSelectedIndex() + 1;
-		player.purchaseHouse(monopoly, number);
+		getPlayer().purchaseHouse(monopoly, number);
 		this.dispose();
+	}
+
+	private Player getPlayer() {
+		return player;
+	}
+
+	private void setPlayer(Player player) {
+		this.player = player;
 	}
 }

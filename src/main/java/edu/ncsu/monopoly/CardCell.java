@@ -9,6 +9,7 @@ public class CardCell extends Cell {
     }
     
     public void playAction() {
+    	
     }
     
     public int getType() {

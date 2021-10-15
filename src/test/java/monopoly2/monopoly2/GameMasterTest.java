@@ -1,6 +1,7 @@
 package monopoly2.monopoly2;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import edu.ncsu.monopoly.GameBoardFull;
 import edu.ncsu.monopoly.GameMaster;
@@ -58,7 +59,7 @@ public class GameMasterTest extends TestCase {
         gameMaster.btnEndTurnClicked();
         TradeDialog dialog = gui.openTradeDialog();
         assertEquals(1, gameMaster.getNumberOfSellers());
-        ArrayList sellerList = gameMaster.getSellerList();
+        List sellerList = gameMaster.getSellerList();
         assertEquals(gameMaster.getPlayer(0), sellerList.get(0));
         TradeDeal deal = dialog.getTradeDeal();
         RespondDialog respond = gui.openRespondDialog(deal);

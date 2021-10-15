@@ -17,7 +17,7 @@ import edu.ncsu.monopoly.BoardGame;
 	
 	public static List getEastCells(BoardGame board) {
 <span class="fc" id="L19">		Dimension d = calculateDimension(board.getCellNumber());</span>
-<span class="fc" id="L20">		int longSide = d.width;</span>
+		//int longSide = d.width;
 <span class="fc" id="L21">		int shortSide = d.height;</span>
 <span class="fc" id="L22">		List cells = new ArrayList();</span>
 <span class="fc bfc" id="L23" title="All 2 branches covered.">		for(int i = board.getCellNumber() - shortSide; i &lt;= board.getCellNumber() - 1; i++) {</span>
@@ -40,7 +40,7 @@ import edu.ncsu.monopoly.BoardGame;
 	public static List getSouthCells(BoardGame board) {
 <span class="fc" id="L41">		Dimension d = calculateDimension(board.getCellNumber());</span>
 <span class="fc" id="L42">		int longSide = d.width;</span>
-<span class="fc" id="L43">		int shortSide = d.height;</span>
+		//int shortSide = d.height;
 <span class="fc" id="L44">		List cells = new ArrayList();</span>
 <span class="fc bfc" id="L45" title="All 2 branches covered.">		for(int i = longSide + 1; i &gt;= 0; i--) {</span>
 <span class="fc" id="L46">			cells.add(board.getCell(i));</span>
