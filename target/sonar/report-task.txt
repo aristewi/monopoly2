@@ -1,0 +1,7 @@
+organization=aristegui
+projectKey=monopoly2:monopoly2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23912
+dashboardUrl=https://sonarcloud.io/dashboard?id=monopoly2%3Amonopoly2
+ceTaskId=AXyFjFs7NvOJTe-IyOFm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyFjFs7NvOJTe-IyOFm

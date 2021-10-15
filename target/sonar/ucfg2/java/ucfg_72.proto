@@ -1,0 +1,20 @@
+
+,edu.ncsu.monopoly.BoardGame#getCellNumber()Iw
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.java7 7("1*ò
+1w
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.java8	 8(…
+∆
+w
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.java8	 8(
+%0java.util.ArrayList"__id***(
+edu.ncsu.monopoly.BoardGame"
+cells…∆
+w
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.java8	 8(	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()"Å
+w
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.java8 8(
+""B
+edu.ncsu.monopoly.BoardGame

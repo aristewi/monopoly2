@@ -1,0 +1,30 @@
+
+\edu.ncsu.monopoly.gui.CCCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java ("1*Ü
+1Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (.ÑÅ
+Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java1 (?
+%0java.lang.String"2edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;* 
+
+celledu.ncsu.monopoly.Cell2	getName()Í
+Á
+Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (?
+%1java.lang.String"__concat*!
+<html><font color='white'><b>*
+
+%0java.lang.Stringﬂ
+‹
+Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (V
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+</b></font></html>"¢
+Ö
+{/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (W
+
+%2java.lang.String:
+celledu.ncsu.monopoly.CellB-+
+)edu.ncsu.monopoly.gui.CCCellInfoFormatter

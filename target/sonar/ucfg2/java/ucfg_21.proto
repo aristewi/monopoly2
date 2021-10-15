@@ -1,0 +1,48 @@
+
+Gedu.ncsu.monopoly.Player#getPropertyNumberForColor(Ljava/lang/String;)Iv
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaã ã(&"3*—
+2v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaé
+ é(–Õ
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaé
+ é(	
+%2int"java.lang.Integer#intValue()I*
+
+numberjava.lang.Integer2
+intValue()"Ä
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaé é(
+""*Á
+3v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaå å(À
+»
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaå å(
+%0java.util.Hashtable"__id*-*+
+edu.ncsu.monopoly.Player"
+colorGroups◊
+‘
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaå å((
+%1java.lang.Integer"__mapGet*
+
+%0java.util.Hashtable*
+
+namejava.lang.Stringπ
+∂
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaå å()
+numberjava.lang.Integer"__id*
+
+%1java.lang.Integer*
+2
+1*˛
+1v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaê	 ê(
+"Ä
+v
+j/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/Player.javaê ê(
+"":
+namejava.lang.StringB
+edu.ncsu.monopoly.Player
