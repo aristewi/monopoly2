@@ -8,7 +8,7 @@ import java.util.List;
 public class GameMaster {
 
 	private static GameMaster gameMaster;
-	static final public int MAX_PLAYER = 8;	
+	 public final static  int MAX_PLAYER = 8;	
 	private Die[] dice;
 	private BoardGame gameBoard;
 	private MonopolyGUI gui;

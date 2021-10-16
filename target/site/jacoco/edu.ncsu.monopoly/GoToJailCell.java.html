@@ -8,7 +8,7 @@ public class GoToJailCell extends Cell {
 
 	public void playAction() {
 <span class="fc" id="L10">		Player currentPlayer = GameMaster.instance().getCurrentPlayer();</span>
-<span class="fc" id="L11">		JailCell jail = (JailCell)(GameMaster.instance().getGameBoard().queryCell(&quot;Jail&quot;));</span>
+		//JailCell jail = (JailCell)(GameMaster.instance().getGameBoard().queryCell(&quot;Jail&quot;));
 <span class="fc" id="L12">		GameMaster.instance().sendToJail(currentPlayer);</span>
 <span class="fc" id="L13">	}</span>
 }

@@ -45,47 +45,42 @@ public class BuyHouseDialog extends JDialog {
 	}
 
 	private JComboBox buildMonopolyComboBox() {
-<span class="nc" id="L48">		cboMonopoly = new JComboBox(getPlayer().getMonopolies());</span>
+		//cboMonopoly = new JComboBox(getPlayer().getMonopolies());
 <span class="nc" id="L49">		return cboMonopoly;</span>
 	}
 	
 	private JComboBox buildNumberComboBox() {
-<span class="nc" id="L53">		cboNumber = new JComboBox(new Integer[]{</span>
-				new Integer(1),
-				new Integer(2),
-				new Integer(3),
-				new Integer(4),
-				new Integer(5)});
-<span class="nc" id="L59">		return cboNumber;</span>
+			
+<span class="nc" id="L54">		return cboNumber;</span>
 	}
 
 	private JButton buildOKButton() {
-<span class="nc" id="L63">		JButton btn = new JButton(&quot;OK&quot;);</span>
-<span class="nc" id="L64">		btn.addActionListener(new ActionListener(){</span>
+<span class="nc" id="L58">		JButton btn = new JButton(&quot;OK&quot;);</span>
+<span class="nc" id="L59">		btn.addActionListener(new ActionListener(){</span>
 			public void actionPerformed(ActionEvent e) {
-<span class="nc" id="L66">				okClicked();</span>
-<span class="nc" id="L67">			}</span>
+<span class="nc" id="L61">				okClicked();</span>
+<span class="nc" id="L62">			}</span>
 		});
-<span class="nc" id="L69">		return btn;</span>
+<span class="nc" id="L64">		return btn;</span>
 	}
 	
 	private void cancelClicked() {
-<span class="nc" id="L73">		this.dispose();</span>
-<span class="nc" id="L74">	}</span>
+<span class="nc" id="L68">		this.dispose();</span>
+<span class="nc" id="L69">	}</span>
 	
 	private void okClicked() {
-<span class="nc" id="L77">		String monopoly = (String)cboMonopoly.getSelectedItem();</span>
-<span class="nc" id="L78">		int number = cboNumber.getSelectedIndex() + 1;</span>
-<span class="nc" id="L79">		getPlayer().purchaseHouse(monopoly, number);</span>
-<span class="nc" id="L80">		this.dispose();</span>
-<span class="nc" id="L81">	}</span>
+<span class="nc" id="L72">		String monopoly = (String)cboMonopoly.getSelectedItem();</span>
+<span class="nc" id="L73">		int number = cboNumber.getSelectedIndex() + 1;</span>
+<span class="nc" id="L74">		getPlayer().purchaseHouse(monopoly, number);</span>
+<span class="nc" id="L75">		this.dispose();</span>
+<span class="nc" id="L76">	}</span>
 
 	private Player getPlayer() {
-<span class="nc" id="L84">		return player;</span>
+<span class="nc" id="L79">		return player;</span>
 	}
 
 	private void setPlayer(Player player) {
-<span class="nc" id="L88">		this.player = player;</span>
-<span class="nc" id="L89">	}</span>
+<span class="nc" id="L83">		this.player = player;</span>
+<span class="nc" id="L84">	}</span>
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
