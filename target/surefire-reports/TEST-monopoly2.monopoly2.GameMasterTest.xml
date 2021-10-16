@@ -22,7 +22,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf6294815607721503284.tmp"/>
+    <property name="classworlds.conf" value="/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf8068693243297553355.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/amaiaaristeguiiturraran/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="jdk.debug" value="release"/>
@@ -52,12 +52,12 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testInit" time="0.012"/>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testReset" time="0"/>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testTradeProcess" time="0.001"/>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testTurn" time="0.001"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testInit" time="0.01"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testReset" time="0.001"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testTradeProcess" time="0.003"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testTurn" time="0"/>
   <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonGetOutOfJailClicked" time="0.001"/>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonPurchasePropertyClicked" time="0.001"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonPurchasePropertyClicked" time="0"/>
   <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonRollDiceClicked" time="0"/>
-  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonTradeClicked" time="0"/>
+  <testcase classname="monopoly2.monopoly2.GameMasterTest" name="testButtonTradeClicked" time="0.001"/>
 </testsuite>

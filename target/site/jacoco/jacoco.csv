@@ -5,7 +5,7 @@ monopoly2,edu.ncsu.monopoly,GameBoardUtility,0,158,0,0,0,51,0,1,0,1
 monopoly2,edu.ncsu.monopoly,SimpleGameBoard,0,113,0,0,0,37,0,1,0,1
 monopoly2,edu.ncsu.monopoly,CardCell,0,13,0,0,0,6,0,3,0,3
 monopoly2,edu.ncsu.monopoly,MockRespondDialog,0,5,0,0,0,3,0,2,0,2
-monopoly2,edu.ncsu.monopoly,BoardGame,4,211,2,16,2,51,2,20,0,13
+monopoly2,edu.ncsu.monopoly,BoardGame,4,209,2,16,2,51,2,20,0,13
 monopoly2,edu.ncsu.monopoly,UtilityCell,2,51,3,5,1,16,3,6,0,5
 monopoly2,edu.ncsu.monopoly,GameBoardCCLoseMoney,0,82,0,0,0,24,0,1,0,1
 monopoly2,edu.ncsu.monopoly,JailCard,0,18,0,0,0,8,0,4,0,4

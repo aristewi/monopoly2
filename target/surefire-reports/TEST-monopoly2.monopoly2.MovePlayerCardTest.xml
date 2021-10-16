@@ -22,7 +22,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf6294815607721503284.tmp"/>
+    <property name="classworlds.conf" value="/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf8068693243297553355.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/amaiaaristeguiiturraran/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="jdk.debug" value="release"/>
@@ -52,7 +52,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="monopoly2.monopoly2.MovePlayerCardTest" name="testJailCardLabel" time="0.001"/>
+  <testcase classname="monopoly2.monopoly2.MovePlayerCardTest" name="testJailCardLabel" time="0.002"/>
   <testcase classname="monopoly2.monopoly2.MovePlayerCardTest" name="testMovePlayerCardAction" time="0.001"/>
-  <testcase classname="monopoly2.monopoly2.MovePlayerCardTest" name="testMovePlayerCardUI" time="0.001"/>
+  <testcase classname="monopoly2.monopoly2.MovePlayerCardTest" name="testMovePlayerCardUI" time="0"/>
 </testsuite>

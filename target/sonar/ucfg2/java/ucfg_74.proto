@@ -1,62 +1,62 @@
 
 Jedu.ncsu.monopoly.BoardGame#getPropertyNumberForColor(Ljava/lang/String;)Iw
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaL L(%"3*õ
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaM M(%"3*õ
 2w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaO
- O(»
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaP
+ P(»
 ≈
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaO
- O(
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaP
+ P(
 %3java.lang.Integer"__id*+*)
 edu.ncsu.monopoly.BoardGame"
 numberÕ 
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaO
- O(	
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaP
+ P(	
 %4int"java.lang.Integer#intValue()I*
 
 %3java.lang.Integer2
 intValue()"Å
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaO O(
-""*«
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaP P(
+""*√
 3w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaM M(œ
-Ã
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaN N(Õ
+ 
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaM M(
-%0java.util.Hashtable"__id*0*.
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaN N(
+%0java.util.HashMap"__id*0*.
 edu.ncsu.monopoly.BoardGame"
-colorGroupsÿ
-’
+colorGroups÷
+”
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaM M( 
-%1java.lang.Integer"__mapGet*
-
-%0java.util.Hashtable*
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaN N( 
+%1java.lang.Integer"__mapGet*
+
+%0java.util.HashMap*
 
 namejava.lang.String»
 ≈
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaM M( )
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaN N( )
 edu.ncsu.monopoly.BoardGame"
 number"__id*
 
 %1java.lang.Integer»
 ≈
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaN N(
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaO O(
 %2java.lang.Integer"__id*+*)
 edu.ncsu.monopoly.BoardGame"
 number*
 2
 1*Ä
 1w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaQ	 Q(
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaR	 R(
 "Å
 w
-m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaQ Q(
+m/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/monopoly2/src/main/java/edu/ncsu/monopoly/BoardGame.javaR R(
 "":
 namejava.lang.StringB
 edu.ncsu.monopoly.BoardGame

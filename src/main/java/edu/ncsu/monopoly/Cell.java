@@ -43,6 +43,7 @@ public abstract class Cell implements IOwnable {
     /**
 	 * @deprecated Use {@link edu.ncsu.monopoly.Player#toString(edu.ncsu.monopoly.Cell)} instead
 	 */
+	@Deprecated
 	public String toString() {
 		return proprietary.toString(this);
 	}

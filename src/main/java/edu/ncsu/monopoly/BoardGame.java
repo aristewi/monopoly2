@@ -1,13 +1,14 @@
 package edu.ncsu.monopoly;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Hashtable;
 
 public class BoardGame {
 
 	private ArrayList<IOwnable> cells = new ArrayList<IOwnable>();
 	private ArrayList<Card> chanceCards = new ArrayList<Card>();
-	private Hashtable<String, Integer> colorGroups = new Hashtable<String, Integer>();
+	private HashMap<String, Integer> colorGroups = new HashMap<String, Integer>();
 	private ArrayList<Card> communityChestCards = new ArrayList<Card>();
 	
 	private Integer number;
@@ -30,7 +31,7 @@ public class BoardGame {
 
 	public void addCell(PropertyCell cell) {
 		int propertyNumber = getPropertyNumberForColor(cell.getColorGroup());
-		colorGroups.put(cell.getColorGroup(), new Integer(propertyNumber + 1));
+		colorGroups.put(cell.getColorGroup(), (propertyNumber + 1));
 	    cells.add(cell);
 	}
 
